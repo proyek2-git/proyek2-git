@@ -15,7 +15,7 @@ We are a team of passionate developers working on **Golang, Tailwind CSS, and Ja
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
 
 ## 📈 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=proyek2-git&show_icons=true&theme=radical)
 
 ---
 
