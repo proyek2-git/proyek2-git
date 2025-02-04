@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, We are **Kelompok 5**!
 
-<!--
-**proyek2-git/proyek2-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Us
+We are a team of passionate developers working on **Golang, Tailwind CSS, and JavaScript** to build high-quality software solutions.
 
-Here are some ideas to get you started:
+### 👨‍💻 Team Members:
+- **M. Hafidz Athaya**  
+- **Muhammad Syahdiannur**  
+- **Muhammad Syehpullah**  
+- **Alvin Grand Putra**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack:
+![Golang](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
+
+## 📈 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+
+---
+
+💡 **Stay tuned for our latest projects!** 🚀  
